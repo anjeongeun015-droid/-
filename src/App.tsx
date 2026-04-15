@@ -18,7 +18,7 @@ const PROJECTS = [
   {
     title: "신조 사무·구매 관리",
     category: "Office & Procurement",
-    image: "https://images.unsplash.com/photo-1559136555-9303baea8ebd?q=80&w=2070&auto=format&fit=crop",
+    image: "https://images.unsplash.com/photo-1494412519320-aa613dfb7738?q=80&w=2070&auto=format&fit=crop",
   },
   {
     title: "데이터 시각화 대시보드",
